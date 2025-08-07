@@ -187,5 +187,4 @@ This project uses SQL to derive useful business insights from retail transaction
 ## 👨‍💻 Author
 
 **Praveen S R**  
-Final Year Mechanical Engineering Student  
 SQL | Data Analytics | Machine Learning  
